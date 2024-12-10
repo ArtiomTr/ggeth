@@ -1,0 +1,15 @@
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/ArtiomTr/go-ethereum.git
+[submodule "grandine"]
+	path = grandine
+	url = https://github.com/ArtiomTr/grandine.git
+[submodule "blst"]
+	path = blst
+	url = https://github.com/ArtiomTr/blst.git
+[submodule "rust-web3"]
+	path = rust-web3
+	url = https://github.com/ArtiomTr/rust-web3.git
+[submodule "rust-kzg"]
+	path = rust-kzg
+	url = https://github.com/ArtiomTr/rust-kzg.git
